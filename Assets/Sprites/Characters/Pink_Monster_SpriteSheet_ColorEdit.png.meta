@@ -1,0 +1,1924 @@
+fileFormatVersion: 2
+guid: 3ece5c18798669042b899a0ddc8d02a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8064708274397678434
+    second: Pink_Monster_SpriteSheet_ColorEdit_0
+  - first:
+      213: 6771701255032989094
+    second: Pink_Monster_SpriteSheet_ColorEdit_1
+  - first:
+      213: 1981053425442961993
+    second: Pink_Monster_SpriteSheet_ColorEdit_2
+  - first:
+      213: 8998374902070303708
+    second: Pink_Monster_SpriteSheet_ColorEdit_3
+  - first:
+      213: -4613214934101849511
+    second: Pink_Monster_SpriteSheet_ColorEdit_4
+  - first:
+      213: 4263903202334536318
+    second: Pink_Monster_SpriteSheet_ColorEdit_5
+  - first:
+      213: -7795760799557712996
+    second: Pink_Monster_SpriteSheet_ColorEdit_6
+  - first:
+      213: 2734722425795598610
+    second: Pink_Monster_SpriteSheet_ColorEdit_7
+  - first:
+      213: 2193600149667413832
+    second: Pink_Monster_SpriteSheet_ColorEdit_8
+  - first:
+      213: -5286726952856771409
+    second: Pink_Monster_SpriteSheet_ColorEdit_9
+  - first:
+      213: -2078791431843603030
+    second: Pink_Monster_SpriteSheet_ColorEdit_10
+  - first:
+      213: -3371620156477410966
+    second: Pink_Monster_SpriteSheet_ColorEdit_11
+  - first:
+      213: -3293716591084116888
+    second: Pink_Monster_SpriteSheet_ColorEdit_12
+  - first:
+      213: -1489679588793005387
+    second: Pink_Monster_SpriteSheet_ColorEdit_13
+  - first:
+      213: 3937031971580722068
+    second: Pink_Monster_SpriteSheet_ColorEdit_14
+  - first:
+      213: -1359573184701745915
+    second: Pink_Monster_SpriteSheet_ColorEdit_15
+  - first:
+      213: -816512758510601033
+    second: Pink_Monster_SpriteSheet_ColorEdit_16
+  - first:
+      213: 2363801437265670051
+    second: Pink_Monster_SpriteSheet_ColorEdit_17
+  - first:
+      213: -2361327005920459101
+    second: Pink_Monster_SpriteSheet_ColorEdit_18
+  - first:
+      213: 5110010859300367011
+    second: Pink_Monster_SpriteSheet_ColorEdit_19
+  - first:
+      213: -2990451141862102272
+    second: Pink_Monster_SpriteSheet_ColorEdit_20
+  - first:
+      213: 8270724057967476087
+    second: Pink_Monster_SpriteSheet_ColorEdit_21
+  - first:
+      213: -7771076192771108358
+    second: Pink_Monster_SpriteSheet_ColorEdit_22
+  - first:
+      213: 1534223993633000745
+    second: Pink_Monster_SpriteSheet_ColorEdit_23
+  - first:
+      213: 8880914022510235398
+    second: Pink_Monster_SpriteSheet_ColorEdit_24
+  - first:
+      213: 1901175987476872521
+    second: Pink_Monster_SpriteSheet_ColorEdit_25
+  - first:
+      213: 318720884018645426
+    second: Pink_Monster_SpriteSheet_ColorEdit_26
+  - first:
+      213: 3297110821074219381
+    second: Pink_Monster_SpriteSheet_ColorEdit_27
+  - first:
+      213: -1136841580671787245
+    second: Pink_Monster_SpriteSheet_ColorEdit_28
+  - first:
+      213: -6494325700441148079
+    second: Pink_Monster_SpriteSheet_ColorEdit_29
+  - first:
+      213: -8825056713550852760
+    second: Pink_Monster_SpriteSheet_ColorEdit_30
+  - first:
+      213: 1494427570468247891
+    second: Pink_Monster_SpriteSheet_ColorEdit_31
+  - first:
+      213: 6250118857008939744
+    second: Pink_Monster_SpriteSheet_ColorEdit_32
+  - first:
+      213: -7748406651960244029
+    second: Pink_Monster_SpriteSheet_ColorEdit_33
+  - first:
+      213: -610024589107958539
+    second: Pink_Monster_SpriteSheet_ColorEdit_34
+  - first:
+      213: 2698562513723515575
+    second: Pink_Monster_SpriteSheet_ColorEdit_35
+  - first:
+      213: -5406998833358830298
+    second: Pink_Monster_SpriteSheet_ColorEdit_36
+  - first:
+      213: -5189192978903895743
+    second: Pink_Monster_SpriteSheet_ColorEdit_37
+  - first:
+      213: -5426101953827488082
+    second: Pink_Monster_SpriteSheet_ColorEdit_38
+  - first:
+      213: -8909369537047536588
+    second: Pink_Monster_SpriteSheet_ColorEdit_39
+  - first:
+      213: -1190994928611490616
+    second: Pink_Monster_SpriteSheet_ColorEdit_40
+  - first:
+      213: 1274669384217222590
+    second: Pink_Monster_SpriteSheet_ColorEdit_41
+  - first:
+      213: 3209532644511041042
+    second: Pink_Monster_SpriteSheet_ColorEdit_42
+  - first:
+      213: -3356093652849100048
+    second: Pink_Monster_SpriteSheet_ColorEdit_43
+  - first:
+      213: 1595347291403542388
+    second: Pink_Monster_SpriteSheet_ColorEdit_44
+  - first:
+      213: 336159341843452761
+    second: Pink_Monster_SpriteSheet_ColorEdit_45
+  - first:
+      213: -9158725141353211816
+    second: Pink_Monster_SpriteSheet_ColorEdit_46
+  - first:
+      213: 8156965632920037289
+    second: Pink_Monster_SpriteSheet_ColorEdit_47
+  - first:
+      213: -2422515733607436635
+    second: Pink_Monster_SpriteSheet_ColorEdit_48
+  - first:
+      213: 4435350426924531069
+    second: Pink_Monster_SpriteSheet_ColorEdit_49
+  - first:
+      213: 1139712209946540352
+    second: Pink_Monster_SpriteSheet_ColorEdit_50
+  - first:
+      213: -4675172841636889339
+    second: Pink_Monster_SpriteSheet_ColorEdit_51
+  - first:
+      213: 4106185440423296836
+    second: Pink_Monster_SpriteSheet_ColorEdit_52
+  - first:
+      213: 9151973415254099629
+    second: Pink_Monster_SpriteSheet_ColorEdit_53
+  - first:
+      213: 1676069555836616131
+    second: Pink_Monster_SpriteSheet_ColorEdit_54
+  - first:
+      213: 2310032492066317640
+    second: Pink_Monster_SpriteSheet_ColorEdit_55
+  - first:
+      213: 9003240468294418568
+    second: Pink_Monster_SpriteSheet_ColorEdit_56
+  - first:
+      213: 4582742354109663933
+    second: Pink_Monster_SpriteSheet_ColorEdit_57
+  - first:
+      213: 8812205388561635024
+    second: Pink_Monster_SpriteSheet_ColorEdit_58
+  - first:
+      213: -4304612921603425921
+    second: Pink_Monster_SpriteSheet_ColorEdit_59
+  - first:
+      213: 7627277864360930948
+    second: Pink_Monster_SpriteSheet_ColorEdit_60
+  - first:
+      213: 637528436087423450
+    second: Pink_Monster_SpriteSheet_ColorEdit_61
+  - first:
+      213: -3115061932725712073
+    second: Pink_Monster_SpriteSheet_ColorEdit_62
+  - first:
+      213: 6542631761948910349
+    second: Pink_Monster_SpriteSheet_ColorEdit_63
+  - first:
+      213: 6078581177307021762
+    second: Pink_Monster_SpriteSheet_ColorEdit_64
+  - first:
+      213: -8829978885208628455
+    second: Pink_Monster_SpriteSheet_ColorEdit_65
+  - first:
+      213: 3656023960482785088
+    second: Pink_Monster_SpriteSheet_ColorEdit_66
+  - first:
+      213: -7329131961224669428
+    second: Pink_Monster_SpriteSheet_ColorEdit_67
+  - first:
+      213: -6707545200907436061
+    second: Pink_Monster_SpriteSheet_ColorEdit_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 429
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e947f579d86641090800000000000000
+      internalID: -8064708274397678434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 429
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5ee47d96ae9fd50800000000000000
+      internalID: 6771701255032989094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 429
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a3998289d1e7b10800000000000000
+      internalID: 1981053425442961993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 429
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbd0b94c46a0ec70800000000000000
+      internalID: 8998374902070303708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 428
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a055495719affb0800000000000000
+      internalID: -4613214934101849511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 429
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72fcc31f5d6c2b30800000000000000
+      internalID: 4263903202334536318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 429
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9382744bd4efc390800000000000000
+      internalID: -7795760799557712996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 429
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21957dc9e8fa3f520800000000000000
+      internalID: 2734722425795598610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 394
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f7b24c6bb317e10800000000000000
+      internalID: 2193600149667413832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 394
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa42d7eb8d5c1a6b0800000000000000
+      internalID: -5286726952856771409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 394
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad16d6e436a623e0800000000000000
+      internalID: -2078791431843603030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 394
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61fd9fc4599531d0800000000000000
+      internalID: -3371620156477410966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 394
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864ee95163e5a42d0800000000000000
+      internalID: -3293716591084116888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 394
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac7d08e48935be0800000000000000
+      internalID: -1489679588793005387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 358
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bbc6708b523a630800000000000000
+      internalID: 3937031971580722068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 358
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505b4bf4463d12de0800000000000000
+      internalID: -1359573184701745915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 358
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcb662e8f92ba4f0800000000000000
+      internalID: -816512758510601033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 358
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af27cb12e8edc020800000000000000
+      internalID: 2363801437265670051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 358
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a603955991ea3fd0800000000000000
+      internalID: -2361327005920459101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 358
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaacf27dc76ae640800000000000000
+      internalID: 5110010859300367011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 319
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00be523d788cf76d0800000000000000
+      internalID: -2990451141862102272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 319
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dbd66e5b387c270800000000000000
+      internalID: 8270724057967476087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 319
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af112672067972490800000000000000
+      internalID: -7771076192771108358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 319
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d4062f798aa4510800000000000000
+      internalID: 1534223993633000745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 319
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f028810485f3b70800000000000000
+      internalID: 8880914022510235398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 319
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dbf0ddc75526a10800000000000000
+      internalID: 1901175987476872521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 281
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b90e6294f25c6400800000000000000
+      internalID: 318720884018645426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 281
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571b93ba2d0b1cd20800000000000000
+      internalID: 3297110821074219381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 281
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f1a2a0b902930f0800000000000000
+      internalID: -1136841580671787245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 281
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155f3811f258fd5a0800000000000000
+      internalID: -6494325700441148079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 281
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d002a1da9178580800000000000000
+      internalID: -8825056713550852760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 281
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3595f4025f54db410800000000000000
+      internalID: 1494427570468247891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 240
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e20df36cf1ecb650800000000000000
+      internalID: 6250118857008939744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 240
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8c2aee331287490800000000000000
+      internalID: -7748406651960244029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 240
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc67f54ed1c887f0800000000000000
+      internalID: -610024589107958539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_35
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 240
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2eca20f48337520800000000000000
+      internalID: 2698562513723515575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 198
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62502b4653b76f4b0800000000000000
+      internalID: -5406998833358830298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 198
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1417b7daa784cf7b0800000000000000
+      internalID: -5189192978903895743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 198
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae3f0f850d92b4b0800000000000000
+      internalID: -5426101953827488082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 198
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c58932c9f8b5480800000000000000
+      internalID: -8909369537047536588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_40
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 161
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c402de2c6cb87fe0800000000000000
+      internalID: -1190994928611490616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 161
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd555c2d0980b110800000000000000
+      internalID: 1274669384217222590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_42
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 161
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216c9137fec8a8c20800000000000000
+      internalID: 3209532644511041042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_43
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 161
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa7cf4aa92cc61d0800000000000000
+      internalID: -3356093652849100048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_44
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 120
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f5d75b8efc32610800000000000000
+      internalID: 1595347291403542388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 120
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953128ee3274aa400800000000000000
+      internalID: 336159341843452761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_46
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 120
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858d33a420ca5e080800000000000000
+      internalID: -9158725141353211816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 120
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7a443960d533170800000000000000
+      internalID: 8156965632920037289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_48
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 85
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aea88b76ce716ed0800000000000000
+      internalID: -2422515733607436635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 85
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7db63bb6b78d8d30800000000000000
+      internalID: 4435350426924531069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_50
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 85
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049f90c673211df00800000000000000
+      internalID: 1139712209946540352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 85
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dfda612137e1fb0800000000000000
+      internalID: -4675172841636889339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_52
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 85
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fbf4e07e91cf830800000000000000
+      internalID: 4106185440423296836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 85
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da60a0af457520f70800000000000000
+      internalID: 9151973415254099629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_54
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 45
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdfc7e7168924710800000000000000
+      internalID: 1676069555836616131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 45
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845293dff42ee0020800000000000000
+      internalID: 2310032492066317640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 45
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8804c14318fe1fc70800000000000000
+      internalID: 9003240468294418568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_57
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 45
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba08d104eb299f30800000000000000
+      internalID: 4582742354109663933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_58
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6dff0ac1e3b4a70800000000000000
+      internalID: 8812205388561635024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f797548ca51f244c0800000000000000
+      internalID: -4304612921603425921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eee6c7ec889d960800000000000000
+      internalID: 7627277864360930948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1833f1cb4f8d800800000000000000
+      internalID: 637528436087423450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bca8e2da315c4d0800000000000000
+      internalID: -3115061932725712073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0327235ce81cca50800000000000000
+      internalID: 6542631761948910349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1c2c300657b5450800000000000000
+      internalID: 6078581177307021762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_65
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 9
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913a0f4bcfc957580800000000000000
+      internalID: -8829978885208628455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_66
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047a4eeeb6eccb230800000000000000
+      internalID: 3656023960482785088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_67
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 6
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07dd3b0051b94a90800000000000000
+      internalID: -7329131961224669428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pink_Monster_SpriteSheet_ColorEdit_68
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef39098d230ae2a0800000000000000
+      internalID: -6707545200907436061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 865b53e284fd7d7459eb16123f50a52f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pink_Monster_SpriteSheet_ColorEdit_0: -8064708274397678434
+      Pink_Monster_SpriteSheet_ColorEdit_1: 6771701255032989094
+      Pink_Monster_SpriteSheet_ColorEdit_10: -2078791431843603030
+      Pink_Monster_SpriteSheet_ColorEdit_11: -3371620156477410966
+      Pink_Monster_SpriteSheet_ColorEdit_12: -3293716591084116888
+      Pink_Monster_SpriteSheet_ColorEdit_13: -1489679588793005387
+      Pink_Monster_SpriteSheet_ColorEdit_14: 3937031971580722068
+      Pink_Monster_SpriteSheet_ColorEdit_15: -1359573184701745915
+      Pink_Monster_SpriteSheet_ColorEdit_16: -816512758510601033
+      Pink_Monster_SpriteSheet_ColorEdit_17: 2363801437265670051
+      Pink_Monster_SpriteSheet_ColorEdit_18: -2361327005920459101
+      Pink_Monster_SpriteSheet_ColorEdit_19: 5110010859300367011
+      Pink_Monster_SpriteSheet_ColorEdit_2: 1981053425442961993
+      Pink_Monster_SpriteSheet_ColorEdit_20: -2990451141862102272
+      Pink_Monster_SpriteSheet_ColorEdit_21: 8270724057967476087
+      Pink_Monster_SpriteSheet_ColorEdit_22: -7771076192771108358
+      Pink_Monster_SpriteSheet_ColorEdit_23: 1534223993633000745
+      Pink_Monster_SpriteSheet_ColorEdit_24: 8880914022510235398
+      Pink_Monster_SpriteSheet_ColorEdit_25: 1901175987476872521
+      Pink_Monster_SpriteSheet_ColorEdit_26: 318720884018645426
+      Pink_Monster_SpriteSheet_ColorEdit_27: 3297110821074219381
+      Pink_Monster_SpriteSheet_ColorEdit_28: -1136841580671787245
+      Pink_Monster_SpriteSheet_ColorEdit_29: -6494325700441148079
+      Pink_Monster_SpriteSheet_ColorEdit_3: 8998374902070303708
+      Pink_Monster_SpriteSheet_ColorEdit_30: -8825056713550852760
+      Pink_Monster_SpriteSheet_ColorEdit_31: 1494427570468247891
+      Pink_Monster_SpriteSheet_ColorEdit_32: 6250118857008939744
+      Pink_Monster_SpriteSheet_ColorEdit_33: -7748406651960244029
+      Pink_Monster_SpriteSheet_ColorEdit_34: -610024589107958539
+      Pink_Monster_SpriteSheet_ColorEdit_35: 2698562513723515575
+      Pink_Monster_SpriteSheet_ColorEdit_36: -5406998833358830298
+      Pink_Monster_SpriteSheet_ColorEdit_37: -5189192978903895743
+      Pink_Monster_SpriteSheet_ColorEdit_38: -5426101953827488082
+      Pink_Monster_SpriteSheet_ColorEdit_39: -8909369537047536588
+      Pink_Monster_SpriteSheet_ColorEdit_4: -4613214934101849511
+      Pink_Monster_SpriteSheet_ColorEdit_40: -1190994928611490616
+      Pink_Monster_SpriteSheet_ColorEdit_41: 1274669384217222590
+      Pink_Monster_SpriteSheet_ColorEdit_42: 3209532644511041042
+      Pink_Monster_SpriteSheet_ColorEdit_43: -3356093652849100048
+      Pink_Monster_SpriteSheet_ColorEdit_44: 1595347291403542388
+      Pink_Monster_SpriteSheet_ColorEdit_45: 336159341843452761
+      Pink_Monster_SpriteSheet_ColorEdit_46: -9158725141353211816
+      Pink_Monster_SpriteSheet_ColorEdit_47: 8156965632920037289
+      Pink_Monster_SpriteSheet_ColorEdit_48: -2422515733607436635
+      Pink_Monster_SpriteSheet_ColorEdit_49: 4435350426924531069
+      Pink_Monster_SpriteSheet_ColorEdit_5: 4263903202334536318
+      Pink_Monster_SpriteSheet_ColorEdit_50: 1139712209946540352
+      Pink_Monster_SpriteSheet_ColorEdit_51: -4675172841636889339
+      Pink_Monster_SpriteSheet_ColorEdit_52: 4106185440423296836
+      Pink_Monster_SpriteSheet_ColorEdit_53: 9151973415254099629
+      Pink_Monster_SpriteSheet_ColorEdit_54: 1676069555836616131
+      Pink_Monster_SpriteSheet_ColorEdit_55: 2310032492066317640
+      Pink_Monster_SpriteSheet_ColorEdit_56: 9003240468294418568
+      Pink_Monster_SpriteSheet_ColorEdit_57: 4582742354109663933
+      Pink_Monster_SpriteSheet_ColorEdit_58: 8812205388561635024
+      Pink_Monster_SpriteSheet_ColorEdit_59: -4304612921603425921
+      Pink_Monster_SpriteSheet_ColorEdit_6: -7795760799557712996
+      Pink_Monster_SpriteSheet_ColorEdit_60: 7627277864360930948
+      Pink_Monster_SpriteSheet_ColorEdit_61: 637528436087423450
+      Pink_Monster_SpriteSheet_ColorEdit_62: -3115061932725712073
+      Pink_Monster_SpriteSheet_ColorEdit_63: 6542631761948910349
+      Pink_Monster_SpriteSheet_ColorEdit_64: 6078581177307021762
+      Pink_Monster_SpriteSheet_ColorEdit_65: -8829978885208628455
+      Pink_Monster_SpriteSheet_ColorEdit_66: 3656023960482785088
+      Pink_Monster_SpriteSheet_ColorEdit_67: -7329131961224669428
+      Pink_Monster_SpriteSheet_ColorEdit_68: -6707545200907436061
+      Pink_Monster_SpriteSheet_ColorEdit_7: 2734722425795598610
+      Pink_Monster_SpriteSheet_ColorEdit_8: 2193600149667413832
+      Pink_Monster_SpriteSheet_ColorEdit_9: -5286726952856771409
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

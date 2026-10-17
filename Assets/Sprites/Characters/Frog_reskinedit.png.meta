@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 1e4d8467864ad0d4f8798838bf96804a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6215218691074851364
+    second: Frog_reskinedit_0
+  - first:
+      213: 5273046513449768476
+    second: Frog_reskinedit_1
+  - first:
+      213: -322629112030813245
+    second: Frog_reskinedit_2
+  - first:
+      213: -6111906265194305824
+    second: Frog_reskinedit_3
+  - first:
+      213: 73591551050087645
+    second: Frog_reskinedit_4
+  - first:
+      213: -8116744249051685207
+    second: Frog_reskinedit_5
+  - first:
+      213: 3873562161324419927
+    second: Frog_reskinedit_6
+  - first:
+      213: 8883450165001176765
+    second: Frog_reskinedit_7
+  - first:
+      213: 9189551292972745672
+    second: Frog_reskinedit_8
+  - first:
+      213: 4241594125856211443
+    second: Frog_reskinedit_9
+  - first:
+      213: 8339921914964541958
+    second: Frog_reskinedit_10
+  - first:
+      213: 6218369080194221798
+    second: Frog_reskinedit_11
+  - first:
+      213: 4460020411636244989
+    second: Frog_reskinedit_12
+  - first:
+      213: 8597903723402309078
+    second: Frog_reskinedit_13
+  - first:
+      213: -3059262172415653921
+    second: Frog_reskinedit_14
+  - first:
+      213: -8863406991126820141
+    second: Frog_reskinedit_15
+  - first:
+      213: -3492359390933747690
+    second: Frog_reskinedit_16
+  - first:
+      213: -435632131396364701
+    second: Frog_reskinedit_17
+  - first:
+      213: 2759941849493499465
+    second: Frog_reskinedit_18
+  - first:
+      213: -3332326351762218791
+    second: Frog_reskinedit_19
+  - first:
+      213: 8123257505198762460
+    second: Frog_reskinedit_20
+  - first:
+      213: -2552359655461925681
+    second: Frog_reskinedit_21
+  - first:
+      213: 4298401335828368467
+    second: Frog_reskinedit_22
+  - first:
+      213: -7276217970568089293
+    second: Frog_reskinedit_23
+  - first:
+      213: 7065601977792619516
+    second: Frog_reskinedit_24
+  - first:
+      213: 3550139438957201879
+    second: Frog_reskinedit_25
+  - first:
+      213: 1530587266772633790
+    second: Frog_reskinedit_26
+  - first:
+      213: 6923807551073275963
+    second: Frog_reskinedit_27
+  - first:
+      213: 7635204853232030106
+    second: Frog_reskinedit_28
+  - first:
+      213: -4591815847092180220
+    second: Frog_reskinedit_29
+  - first:
+      213: -5290489504093798586
+    second: Frog_reskinedit_30
+  - first:
+      213: 7120105032710180375
+    second: Frog_reskinedit_31
+  - first:
+      213: 1526554724196219637
+    second: Frog_reskinedit_32
+  - first:
+      213: 7718234915079216267
+    second: Frog_reskinedit_33
+  - first:
+      213: -2066018545777355949
+    second: Frog_reskinedit_34
+  - first:
+      213: 6849344021129822853
+    second: Frog_reskinedit_35
+  - first:
+      213: -1148465068877922047
+    second: Frog_reskinedit_36
+  - first:
+      213: -2119072465317196528
+    second: Frog_reskinedit_37
+  - first:
+      213: -6666201349323660335
+    second: Frog_reskinedit_38
+  - first:
+      213: 4165355923864644382
+    second: Frog_reskinedit_39
+  - first:
+      213: 3136340200745091363
+    second: Frog_reskinedit_40
+  - first:
+      213: -2915649239818893854
+    second: Frog_reskinedit_41
+  - first:
+      213: -2380788757102057066
+    second: Frog_reskinedit_42
+  - first:
+      213: -6426558309386884719
+    second: Frog_reskinedit_43
+  - first:
+      213: 1877565948892656796
+    second: Frog_reskinedit_44
+  - first:
+      213: -4694136737980173493
+    second: Frog_reskinedit_45
+  - first:
+      213: -6230382492388142825
+    second: Frog_reskinedit_46
+  - first:
+      213: 76337173419469110
+    second: Frog_reskinedit_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frog_reskinedit_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 191
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42282ea4874e04650800000000000000
+      internalID: 6215218691074851364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 191
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16194ebddf9d2940800000000000000
+      internalID: 5273046513449768476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3243f288ac58bf0800000000000000
+      internalID: -322629112030813245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 191
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6eb9252a52e2ba0800000000000000
+      internalID: -6111906265194305824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 159
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc7fc23023750100800000000000000
+      internalID: 73591551050087645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 159
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae549e1c188b5f80800000000000000
+      internalID: -8116744249051685207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75be2214348a1c530800000000000000
+      internalID: 3873562161324419927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 159
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6c7c8cbda584b70800000000000000
+      internalID: 8883450165001176765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_8
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 159
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c34fde6638d78f70800000000000000
+      internalID: 9189551292972745672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 159
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f10b01726b2dda30800000000000000
+      internalID: 4241594125856211443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60205fb7bca5db370800000000000000
+      internalID: 8339921914964541958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6cf3b6bb51c4650800000000000000
+      internalID: 6218369080194221798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 127
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1e1962fec25ed30800000000000000
+      internalID: 4460020411636244989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 127
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd276ef1e3e15770800000000000000
+      internalID: 8597903723402309078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 127
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7006a43415b85d0800000000000000
+      internalID: -3059262172415653921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 127
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da0c2a4d4adef480800000000000000
+      internalID: -8863406991126820141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 127
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618f46323a5a88fc0800000000000000
+      internalID: -3492359390933747690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_17
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 127
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3669f5372e254f9f0800000000000000
+      internalID: -435632131396364701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_18
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 127
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e6bc34d784d4620800000000000000
+      internalID: 2759941849493499465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_19
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 127
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d02a87a6d231c1d0800000000000000
+      internalID: -3332326351762218791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_20
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 127
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9e56089ab9bb070800000000000000
+      internalID: 8123257505198762460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_21
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 127
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc47259a62349cd0800000000000000
+      internalID: -2552359655461925681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c4d14bd3df6ab30800000000000000
+      internalID: 4298401335828368467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 95
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331b9fb8e4ea50b90800000000000000
+      internalID: -7276217970568089293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf360aa409f0e0260800000000000000
+      internalID: 7065601977792619516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 95
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d90622a201a44130800000000000000
+      internalID: 3550139438957201879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 95
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb808bd720dbd3510800000000000000
+      internalID: 1530587266772633790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 95
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30d3e6a84e461060800000000000000
+      internalID: 6923807551073275963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_28
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 95
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91db386c52b5f960800000000000000
+      internalID: 7635204853232030106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_29
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 95
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40baf08c0d79640c0800000000000000
+      internalID: -4591815847092180220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_30
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 95
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f7e8483d76496b0800000000000000
+      internalID: -5290489504093798586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_31
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 95
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e4926adc1bfc260800000000000000
+      internalID: 7120105032710180375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 63
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faf8e10f696f2510800000000000000
+      internalID: 1526554724196219637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 31
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c505623cdac1b60800000000000000
+      internalID: 7718234915079216267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 31
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353529f24170453e0800000000000000
+      internalID: -2066018545777355949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_35
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 31
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58283eb0912cd0f50800000000000000
+      internalID: 6849344021129822853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101469cca15df00f0800000000000000
+      internalID: -1148465068877922047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_37
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d0573f1da8792e0800000000000000
+      internalID: -2119072465317196528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3655c1135ec73a0800000000000000
+      internalID: -6666201349323660335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b650dc4215ec930800000000000000
+      internalID: 4165355923864644382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_40
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3214038abc4868b20800000000000000
+      internalID: 3136340200745091363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e505f2d6788987d0800000000000000
+      internalID: -2915649239818893854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_42
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69920b74d3db5fed0800000000000000
+      internalID: -2380788757102057066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199e8a8544740d6a0800000000000000
+      internalID: -6426558309386884719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_44
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94bd1268447e0a10800000000000000
+      internalID: 1877565948892656796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_45
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 0
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43b495e1831bdeb0800000000000000
+      internalID: -4694136737980173493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_46
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7115466122c3989a0800000000000000
+      internalID: -6230382492388142825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog_reskinedit_47
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63923d831443f0100800000000000000
+      internalID: 76337173419469110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Frog_reskinedit_0: 6215218691074851364
+      Frog_reskinedit_1: 5273046513449768476
+      Frog_reskinedit_10: 8339921914964541958
+      Frog_reskinedit_11: 6218369080194221798
+      Frog_reskinedit_12: 4460020411636244989
+      Frog_reskinedit_13: 8597903723402309078
+      Frog_reskinedit_14: -3059262172415653921
+      Frog_reskinedit_15: -8863406991126820141
+      Frog_reskinedit_16: -3492359390933747690
+      Frog_reskinedit_17: -435632131396364701
+      Frog_reskinedit_18: 2759941849493499465
+      Frog_reskinedit_19: -3332326351762218791
+      Frog_reskinedit_2: -322629112030813245
+      Frog_reskinedit_20: 8123257505198762460
+      Frog_reskinedit_21: -2552359655461925681
+      Frog_reskinedit_22: 4298401335828368467
+      Frog_reskinedit_23: -7276217970568089293
+      Frog_reskinedit_24: 7065601977792619516
+      Frog_reskinedit_25: 3550139438957201879
+      Frog_reskinedit_26: 1530587266772633790
+      Frog_reskinedit_27: 6923807551073275963
+      Frog_reskinedit_28: 7635204853232030106
+      Frog_reskinedit_29: -4591815847092180220
+      Frog_reskinedit_3: -6111906265194305824
+      Frog_reskinedit_30: -5290489504093798586
+      Frog_reskinedit_31: 7120105032710180375
+      Frog_reskinedit_32: 1526554724196219637
+      Frog_reskinedit_33: 7718234915079216267
+      Frog_reskinedit_34: -2066018545777355949
+      Frog_reskinedit_35: 6849344021129822853
+      Frog_reskinedit_36: -1148465068877922047
+      Frog_reskinedit_37: -2119072465317196528
+      Frog_reskinedit_38: -6666201349323660335
+      Frog_reskinedit_39: 4165355923864644382
+      Frog_reskinedit_4: 73591551050087645
+      Frog_reskinedit_40: 3136340200745091363
+      Frog_reskinedit_41: -2915649239818893854
+      Frog_reskinedit_42: -2380788757102057066
+      Frog_reskinedit_43: -6426558309386884719
+      Frog_reskinedit_44: 1877565948892656796
+      Frog_reskinedit_45: -4694136737980173493
+      Frog_reskinedit_46: -6230382492388142825
+      Frog_reskinedit_47: 76337173419469110
+      Frog_reskinedit_5: -8116744249051685207
+      Frog_reskinedit_6: 3873562161324419927
+      Frog_reskinedit_7: 8883450165001176765
+      Frog_reskinedit_8: 9189551292972745672
+      Frog_reskinedit_9: 4241594125856211443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
